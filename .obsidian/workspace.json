@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "fa261fd148224469",
+    "type": "split",
+    "children": [
+      {
+        "id": "973114c99ebb1228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb91984d34142c30",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-06 10.18.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-06 10.18.24.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81140dd3ddfd077e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd7bc2568a1a20a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b68cb14aa2a99b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81653ac61e264ebc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59bb2e4cbcaaf3b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3b7951917bc0837c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4257fd42ea91969",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7285008b9b6bff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "286347e65c66c0ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-11-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-13"
+            }
+          },
+          {
+            "id": "fc679893a634f398",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-11-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-13"
+            }
+          },
+          {
+            "id": "0c28bc89069b410b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa6ca665e2612f07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-11-13.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-13"
+            }
+          },
+          {
+            "id": "b18ffe613030bb3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "15e2097002a7b5bf",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": true,
+      "zk-prefixer:Create new unique note": true,
+      "workspaces:Manage workspace layouts": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cb91984d34142c30",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-06 10.18.24.excalidraw.md",
+    "Excalidraw",
+    "obsidianbackup",
+    "Blind75.md",
+    "leetcodelogo.png",
+    "Recursion/Topics to cover.md",
+    "2025-01-06.md",
+    "Recursion/Introduction and Explanation.md",
+    "Recursion/blueprint.canvas",
+    "Graph/Drawing 2025-01-06 09.56.48.excalidraw.md",
+    "202501060956.md",
+    "Untitled.canvas",
+    "Tags",
+    "Graph/Introduction.md",
+    "Recursion",
+    "202501060922.md",
+    "Pasted image 20250105214425.png",
+    "Pasted image 20250105214419.png",
+    "Pasted image 20250105214352.png",
+    "FoodBuddy-Rewrite/claude-d1.md",
+    "FoodBuddy-Rewrite/d1ER.md",
+    "Graph",
+    "DSA",
+    "FoodBuddy-Rewrite",
+    "Microservice.canvas",
+    "Docker/note1.md",
+    "Kubernetes/note1.md",
+    "Untitled 1.canvas",
+    "2024-11-13.md",
+    "Microservices/Architecture.md",
+    "Kubernetes/n.md",
+    "Docker",
+    "Kubernetes",
+    "Golang",
+    "Untitled 2.canvas"
+  ]
+}
