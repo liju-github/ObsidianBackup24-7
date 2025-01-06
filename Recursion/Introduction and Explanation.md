@@ -31,9 +31,9 @@
 
 
 **Factorial Formula:**  
-n!=n×(n−1)×(n−2)⋯×1n! = n \times (n-1) \times (n-2) \dots \times 1  
+n!=n×(n−1)×(n−2)⋯×1n! = n * (n-1) * (n-2)  .... * 1  
 For example:  
-5!=5×4×3×2×1=1205! = 5 \times 4 \times 3 \times 2 \times 1 = 120
+5!=5×4×3×2×1=1205! = 5 * 4 * 3 * 2 * 1 = 120
 
 #### Recursive Implementation (Go Code):
 
@@ -53,17 +53,17 @@ func factorial(n int) int {
 #### _Example: `factorial(3)`_
 
 1. **Initial Call:**  
-    factorial(3)=3×factorial(2)factorial(3) = 3 \times factorial(2)
+    factorial(3)=3×factorial(2)factorial(3) = 3 * factorial(2)
 2. **Second Call:**  
-    factorial(2)=2×factorial(1)factorial(2) = 2 \times factorial(1)
+    factorial(2)=2×factorial(1)factorial(2) = 2 * factorial(1)
 3. **Third Call:**  
-    factorial(1)=1×factorial(0)factorial(1) = 1 \times factorial(0)
+    factorial(1)=1×factorial(0)factorial(1) = 1 * factorial(0)
 4. **Base Case Reached:**  
     factorial(0)=1factorial(0) = 1
 5. **Stack Unwinding:**
-    - factorial(1)=1×1=1factorial(1) = 1 \times 1 = 1
-    - factorial(2)=2×1=2factorial(2) = 2 \times 1 = 2
-    - factorial(3)=3×2=6factorial(3) = 3 \times 2 = 6
+    - factorial(1)=1×1=1factorial(1) = 1 * 1 = 1
+    - factorial(2)=2×1=2factorial(2) = 2 * 1 = 2
+    - factorial(3)=3×2=6factorial(3) = 3 * 2 = 6
 
 ---
 
@@ -206,7 +206,7 @@ fibonacci(4) → 3
 ### **Example: Sum of Natural Numbers**
 
 **Sum Formula:**  
-S(n)=1+2+3+⋯+n=n+S(n−1)S(n) = 1 + 2 + 3 + \dots + n = n + S(n-1)  
+S(n)=1+2+3+⋯+n=n+S(n−1)S(n) = 1 + 2 + 3 + 4 + n = n + S(n-1)  
 S(0)=0S(0) = 0
 
 #### Recursive Implementation (Go Code):
@@ -288,11 +288,9 @@ S(3) → 3 + 3 = 6
 S(4) → 4 + 6 = 10  
 ```
 
----```
-
 ---
 
-### **Key Points to Remember:**
+### Key Points to Remember:
 
 1. **Base Case:** Always define one to prevent infinite recursion.
 2. **Recursive Case:** Simplify the problem towards the base case.

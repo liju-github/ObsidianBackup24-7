@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "973114c99ebb1228",
+        "id": "41a1164132b9c07a",
         "type": "tabs",
         "children": [
           {
-            "id": "cb91984d34142c30",
+            "id": "e244b3536d360ea4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-06 10.18.24.excalidraw.md"
+                "file": "Recursion/Introduction and Explanation.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-06 10.18.24.excalidraw"
+              "icon": "lucide-file",
+              "title": "Introduction and Explanation"
             }
           }
         ]
@@ -70,16 +72,6 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "3b7951917bc0837c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ]
       }
@@ -101,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-13"
+              "title": "Backlinks"
             }
           },
           {
@@ -176,9 +167,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "19f6f7b6b43c043d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -203,21 +204,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb91984d34142c30",
+  "active": "e244b3536d360ea4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-06 10.18.24.excalidraw.md",
+    "Recursion/Topics to cover.md",
+    "Recursion/Introduction and Explanation.md",
+    "Excalidraw/Drawing 2025-01-06 11.05.22.excalidraw.md",
+    "Recursion/blueprint.canvas",
+    "Excalidraw/cleanarch.md",
+    "Untitled.canvas",
+    "Tags",
+    "Excalidraw/Drawing 2025-01-06 10.47.27.excalidraw.md",
+    "Untitled.md",
     "Excalidraw",
     "obsidianbackup",
     "Blind75.md",
     "leetcodelogo.png",
-    "Recursion/Topics to cover.md",
     "2025-01-06.md",
-    "Recursion/Introduction and Explanation.md",
-    "Recursion/blueprint.canvas",
     "Graph/Drawing 2025-01-06 09.56.48.excalidraw.md",
     "202501060956.md",
-    "Untitled.canvas",
-    "Tags",
     "Graph/Introduction.md",
     "Recursion",
     "202501060922.md",
